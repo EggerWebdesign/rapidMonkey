@@ -1,21 +1,19 @@
-# Larawind - Laravel 8.0+ Jetstream and Tailwind CSS Admin Theme
-
-This project is created with [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html) Framework and [Tailwind CSS](https://tailwindcss.com), the admin environment is desing by [Windmill Dashboard](https://windmill-dashboard.vercel.app/).
+# rapidMonkey CMS based on Laravel 8.0+
 
 ## Requirements
 
-- Laravel installer
-- Composer
-- Npm installer
+-   Laravel installer
+-   Composer
+-   Npm installer
 
 ## Installation
 
 ```
 # Clone the repository from GitHub and open the directory:
-git clone https://github.com/miten5/larawind.git
+git clone https://github.com/EggerWebdesign/rapidMonkey.git
 
 # cd into your project directory
-cd larawind
+cd rapdMonkey
 
 #install composer and npm packages
 composer install
@@ -31,8 +29,10 @@ php artisan storage:link
 php artisan serve
 
 ```
+
 ### Project made possible thanks to:
 
-- [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Windmill Dashboard](https://windmill-dashboard.vercel.app/)
+-   [Laravel Jetstream](https://jetstream.laravel.com/1.x/introduction.html)
+-   [Tailwind CSS](https://tailwindcss.com/)
+-   [Windmill Dashboard](https://windmill-dashboard.vercel.app/)
+-   [Larawind](https://github.com/miten5/larawind)
